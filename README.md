@@ -1,0 +1,2 @@
+# signature-assets
+Imagini
